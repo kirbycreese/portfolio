@@ -1,0 +1,16 @@
+.jumbotron {
+    background: url('http://placekitten.com/800/500') no-repeat center center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 12%;
+  }
+
+  .display-4 {
+    text-align: right;
+  }
+
+  .lead {
+      text-align: right;
+  }
+
+  
