@@ -1,5 +1,4 @@
 .jumbotron {
-    background: url('http://placekitten.com/800/500') no-repeat center center;
     background-size: cover;
     padding-top: 10%;
     padding-bottom: 12%;
@@ -7,10 +6,44 @@
 
   .display-4 {
     text-align: right;
+    position: absolute;
+    bottom: ;
+    right: 0;
   }
 
   .lead {
       text-align: right;
   }
 
+  .col-sm{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+
+  .footer{
+    text-align: center;
+  }
+
+  .fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fas {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+      
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
   
